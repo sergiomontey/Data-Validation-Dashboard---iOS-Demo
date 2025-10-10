@@ -1,77 +1,207 @@
-## 📄 License
-
-**Proprietary Demo License**
+PROPRIETARY DEMO LICENSE
 
 Copyright (c) 2025 MonteyAI LLC. All rights reserved.
 
-This software and associated documentation files (the "Software") are proprietary to MonteyAI LLC and are protected by copyright law.
+================================================================================
 
-### Permitted Use
+IMPORTANT: READ CAREFULLY BEFORE VIEWING, DOWNLOADING, OR USING THIS SOFTWARE
 
-This code is provided as a **DEMONSTRATION AND EDUCATIONAL TOOL ONLY**. You may:
+This software and associated documentation files (the "Software") are 
+proprietary to MonteyAI LLC and are protected by copyright law and 
+international treaty provisions.
 
-- ✅ View and study the source code for learning purposes
-- ✅ Use as a reference for educational projects
-- ✅ Run the demo application for evaluation purposes
-- ✅ Share links to this repository for educational purposes
-- ✅ Use in academic coursework and research (with citation)
+================================================================================
 
-### Restrictions
+1. PERMITTED USE
 
-The following uses are **STRICTLY PROHIBITED** without explicit written permission from MonteyAI LLC:
+This code is provided as a DEMONSTRATION AND EDUCATIONAL TOOL ONLY. 
+Subject to the terms and conditions of this License, you are granted a 
+limited, non-exclusive, non-transferable right to:
 
-- ❌ Commercial use or integration into commercial products
-- ❌ Redistribution, modification, or creation of derivative works
-- ❌ Reverse engineering, decompilation, or disassembly
-- ❌ Use in production environments or live systems
-- ❌ Removal or alteration of copyright notices
-- ❌ Sublicensing or transferring rights to third parties
-- ❌ Use of MonteyAI LLC name or trademarks without permission
+   a) View and study the source code for learning purposes
+   b) Use as a reference for educational projects
+   c) Run the demo application for evaluation purposes
+   d) Share links to this repository for educational purposes
+   e) Use in academic coursework and research (with proper citation)
+   f) Present in portfolio demonstrations
 
-### Disclaimer
+2. RESTRICTIONS
 
-**NO WARRANTIES**: THIS SOFTWARE IS PROVIDED "AS IS" FOR DEMONSTRATION PURPOSES ONLY.
+The following uses are STRICTLY PROHIBITED without explicit written 
+permission from MonteyAI LLC:
 
-MonteyAI LLC makes **NO WARRANTIES, EXPRESS OR IMPLIED**, including but not limited to:
+   a) Commercial use or integration into commercial products
+   b) Redistribution, modification, or creation of derivative works
+   c) Reverse engineering, decompilation, or disassembly
+   d) Use in production environments or live systems
+   e) Removal or alteration of copyright notices
+   f) Sublicensing or transferring rights to third parties
+   g) Use of MonteyAI LLC name, trademarks, or logos without permission
+   h) Copying substantial portions of the code into other projects
+   i) Creating competing products based on this demonstration
 
-- No warranty of merchantability or fitness for a particular purpose
-- No warranty of non-infringement of third-party rights
-- No warranty regarding accuracy, reliability, or completeness
-- No warranty that the software will be error-free or uninterrupted
+3. DEMONSTRATION STATUS
 
-### Limitation of Liability
+THIS SOFTWARE IS A PROOF OF CONCEPT AND NOT PRODUCTION-READY.
 
-IN NO EVENT SHALL MonteyAI LLC BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+This application is intended solely for:
+   - Portfolio demonstration purposes
+   - Teaching and learning iOS development
+   - Concept validation and prototype testing
+   - Client presentation and discussion
 
-### Demo Status
+DO NOT USE IN PRODUCTION without:
+   - Obtaining appropriate commercial licensing
+   - Implementing proper security measures
+   - Conducting thorough testing and quality assurance
+   - Adding necessary error handling and monitoring
+   - Complying with relevant data protection regulations
 
-This application is a **PROOF OF CONCEPT** and **NOT PRODUCTION-READY**. It is intended solely for:
+4. DISCLAIMER OF WARRANTIES
 
-- Portfolio demonstration purposes
-- Teaching and learning iOS development
-- Concept validation and prototype testing
-- Client presentation and discussion
+NO WARRANTIES: THIS SOFTWARE IS PROVIDED "AS IS" FOR DEMONSTRATION 
+PURPOSES ONLY.
 
-**DO NOT USE IN PRODUCTION** without obtaining appropriate licensing, implementing security measures, and conducting thorough testing.
+MonteyAI LLC makes NO WARRANTIES, EXPRESS OR IMPLIED, including but 
+not limited to:
 
-### Commercial Licensing
+   a) No warranty of merchantability or fitness for a particular purpose
+   b) No warranty of non-infringement of third-party rights
+   c) No warranty regarding accuracy, reliability, or completeness
+   d) No warranty that the software will be error-free or uninterrupted
+   e) No warranty of security or data protection
+   f) No warranty of compatibility with any specific system or platform
+   g) No warranty of performance or results
 
-For commercial use, production deployment, or custom development inquiries, please contact:
+THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE IS 
+WITH YOU. SHOULD THE SOFTWARE PROVE DEFECTIVE, YOU ASSUME THE COST OF 
+ALL NECESSARY SERVICING, REPAIR, OR CORRECTION.
 
-📧 **Email**: smontecinos@monteyai.com  
-🌐 **Website**: https://monteyai.com  
-📱 **Company**: MonteyAI LLC
+5. LIMITATION OF LIABILITY
 
-### Attribution
+IN NO EVENT SHALL MonteyAI LLC, ITS OFFICERS, DIRECTORS, EMPLOYEES, 
+AGENTS, OR AFFILIATES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, 
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED 
+TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR 
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF 
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING 
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS 
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-If you reference this demo in academic work, presentations, or articles, please cite:
+MonteyAI LLC'S TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES, AND 
+CAUSES OF ACTION SHALL NOT EXCEED ZERO DOLLARS ($0.00).
 
-```
-Data Validation Dashboard - iOS Demo
-MonteyAI LLC (2025)
-https://github.com/monteyai/data-validation-dashboard-ios
-```
+6. INDEMNIFICATION
 
----
+You agree to indemnify, defend, and hold harmless MonteyAI LLC, its 
+officers, directors, employees, agents, and affiliates from and against 
+any and all claims, liabilities, damages, losses, costs, expenses, or 
+fees (including reasonable attorneys' fees) arising from:
 
-**BY VIEWING OR USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS LICENSE, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.**
+   a) Your use or misuse of the Software
+   b) Your violation of this License
+   c) Your violation of any third-party rights
+   d) Any production use of this demonstration software
+
+7. INTELLECTUAL PROPERTY RIGHTS
+
+All right, title, and interest in and to the Software, including all 
+intellectual property rights therein, are and shall remain the exclusive 
+property of MonteyAI LLC. This License does not grant you any rights to 
+patents, copyrights, trade secrets, trademarks, or any other rights in 
+respect to the Software.
+
+8. TERMINATION
+
+This License is effective until terminated. Your rights under this 
+License will terminate automatically without notice if you fail to 
+comply with any of its terms. Upon termination, you must immediately:
+
+   a) Cease all use of the Software
+   b) Delete all copies of the Software in your possession
+   c) Destroy any derivative works or modifications
+
+MonteyAI LLC reserves the right to terminate this License at any time 
+for any reason with or without notice.
+
+9. COMMERCIAL LICENSING
+
+For commercial use, production deployment, custom development, or any 
+use case not explicitly permitted under this License, you must obtain 
+a separate commercial license from MonteyAI LLC.
+
+Contact information for licensing inquiries:
+
+   Email:    smontecinos@monteyai.com
+   Website:  https://monteyai.com
+   Company:  MonteyAI LLC
+   Address:  [Your Business Address]
+
+10. ATTRIBUTION REQUIREMENTS
+
+If you reference this demonstration in academic work, presentations, 
+blog posts, articles, or any public forum, you must provide proper 
+attribution:
+
+   "Data Validation Dashboard - iOS Demo
+    Copyright (c) 2025 MonteyAI LLC
+    https://github.com/monteyai/data-validation-dashboard-ios
+    Used with permission for [educational/evaluation] purposes only"
+
+11. EXPORT COMPLIANCE
+
+You agree to comply with all applicable export and import laws and 
+regulations. You may not use or otherwise export or re-export the 
+Software except as authorized by United States law and the laws of 
+the jurisdiction in which the Software was obtained.
+
+12. GOVERNING LAW
+
+This License shall be governed by and construed in accordance with the 
+laws of [Your State/Country], without regard to its conflict of law 
+provisions. Any legal action or proceeding arising under this License 
+will be brought exclusively in the courts located in [Your Jurisdiction], 
+and you hereby consent to personal jurisdiction and venue therein.
+
+13. SEVERABILITY
+
+If any provision of this License is held to be unenforceable or invalid, 
+such provision will be changed and interpreted to accomplish the 
+objectives of such provision to the greatest extent possible under 
+applicable law, and the remaining provisions will continue in full 
+force and effect.
+
+14. ENTIRE AGREEMENT
+
+This License constitutes the entire agreement between you and MonteyAI LLC 
+concerning the Software and supersedes all prior or contemporaneous 
+understandings regarding such subject matter.
+
+15. NO WAIVER
+
+The failure of MonteyAI LLC to exercise or enforce any right or provision 
+of this License shall not constitute a waiver of such right or provision.
+
+16. MODIFICATIONS TO LICENSE
+
+MonteyAI LLC reserves the right to modify this License at any time. 
+Continued use of the Software after any such changes constitutes your 
+acceptance of the new License terms.
+
+================================================================================
+
+ACKNOWLEDGMENT AND ACCEPTANCE
+
+BY VIEWING, DOWNLOADING, ACCESSING, OR USING THIS SOFTWARE IN ANY WAY, 
+YOU ACKNOWLEDGE THAT YOU HAVE READ THIS LICENSE, UNDERSTAND IT, AND AGREE 
+TO BE BOUND BY ITS TERMS AND CONDITIONS.
+
+IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE, DO NOT VIEW, DOWNLOAD, 
+ACCESS, OR USE THE SOFTWARE.
+
+================================================================================
+
+Questions about this License? Contact: smontecinos@monteyai.com
+
+Last Updated: January 2025
+Version: 1.0
