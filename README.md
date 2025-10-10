@@ -1,4 +1,3 @@
-
 # Data Validation Dashboard - iOS Demo
 
 # 📊🔍 Data Validation Dashboard
@@ -916,19 +915,40 @@ git push origin feature/your-feature-name
 
 ## 📄 License
 
+**Proprietary Demo License**
+
 Copyright (c) 2025 MonteyAI LLC. All rights reserved.
 
-This software and associated documentation files (the "Software") are proprietary to MonteyAI LLC and are protected by copyright law.
+This project is released under a **proprietary demonstration license**. This is a proof-of-concept application intended for educational and demonstration purposes only.
 
-**VIEWING PERMITTED**: This code is available for viewing, educational, and evaluation purposes only.
+### Quick Summary
 
-**RESTRICTIONS**:
-- No commercial use without explicit written permission from MonteyAI LLC
-- No redistribution, modification, or derivative works
-- No reverse engineering or decompilation
-- No use in production environments without valid license
+✅ **Allowed**: Viewing, learning, educational use, portfolio demonstrations  
+❌ **Not Allowed**: Commercial use, redistribution, production deployment  
+⚠️ **No Warranties**: Provided "AS IS" for demonstration purposes only
 
-For licensing inquiries: smontecinos@monteyai.com
+### 📋 Full License Terms
+
+**Please read the complete license agreement**: [LICENSE](LICENSE)
+
+The full license includes important information about:
+- Permitted uses and restrictions
+- Disclaimer of warranties
+- Limitation of liability
+- Demo/proof-of-concept status
+- Commercial licensing options
+
+### 💼 Commercial Licensing
+
+Interested in using this for production or commercial purposes?
+
+📧 **Contact**: smontecinos@monteyai.com  
+🌐 **Website**: https://monteyai.com  
+🏢 **Company**: MonteyAI LLC
+
+---
+
+**By using this software, you agree to the terms in the [LICENSE](LICENSE) file.**
 
 ## 🙏 Acknowledgments
 
