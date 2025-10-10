@@ -1,21 +1,77 @@
-MIT License
+## 📄 License
 
-Copyright (c) 2025 Sergio Montecinos
+**Proprietary Demo License**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright (c) 2025 MonteyAI LLC. All rights reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This software and associated documentation files (the "Software") are proprietary to MonteyAI LLC and are protected by copyright law.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### Permitted Use
+
+This code is provided as a **DEMONSTRATION AND EDUCATIONAL TOOL ONLY**. You may:
+
+- ✅ View and study the source code for learning purposes
+- ✅ Use as a reference for educational projects
+- ✅ Run the demo application for evaluation purposes
+- ✅ Share links to this repository for educational purposes
+- ✅ Use in academic coursework and research (with citation)
+
+### Restrictions
+
+The following uses are **STRICTLY PROHIBITED** without explicit written permission from MonteyAI LLC:
+
+- ❌ Commercial use or integration into commercial products
+- ❌ Redistribution, modification, or creation of derivative works
+- ❌ Reverse engineering, decompilation, or disassembly
+- ❌ Use in production environments or live systems
+- ❌ Removal or alteration of copyright notices
+- ❌ Sublicensing or transferring rights to third parties
+- ❌ Use of MonteyAI LLC name or trademarks without permission
+
+### Disclaimer
+
+**NO WARRANTIES**: THIS SOFTWARE IS PROVIDED "AS IS" FOR DEMONSTRATION PURPOSES ONLY.
+
+MonteyAI LLC makes **NO WARRANTIES, EXPRESS OR IMPLIED**, including but not limited to:
+
+- No warranty of merchantability or fitness for a particular purpose
+- No warranty of non-infringement of third-party rights
+- No warranty regarding accuracy, reliability, or completeness
+- No warranty that the software will be error-free or uninterrupted
+
+### Limitation of Liability
+
+IN NO EVENT SHALL MonteyAI LLC BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+### Demo Status
+
+This application is a **PROOF OF CONCEPT** and **NOT PRODUCTION-READY**. It is intended solely for:
+
+- Portfolio demonstration purposes
+- Teaching and learning iOS development
+- Concept validation and prototype testing
+- Client presentation and discussion
+
+**DO NOT USE IN PRODUCTION** without obtaining appropriate licensing, implementing security measures, and conducting thorough testing.
+
+### Commercial Licensing
+
+For commercial use, production deployment, or custom development inquiries, please contact:
+
+📧 **Email**: smontecinos@monteyai.com  
+🌐 **Website**: https://monteyai.com  
+📱 **Company**: MonteyAI LLC
+
+### Attribution
+
+If you reference this demo in academic work, presentations, or articles, please cite:
+
+```
+Data Validation Dashboard - iOS Demo
+MonteyAI LLC (2025)
+https://github.com/monteyai/data-validation-dashboard-ios
+```
+
+---
+
+**BY VIEWING OR USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS LICENSE, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.**
