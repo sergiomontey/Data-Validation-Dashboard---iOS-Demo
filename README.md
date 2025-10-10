@@ -1,9 +1,9 @@
-# Data Validation Dashboard-iOS-Demo
+
 # Data Validation Dashboard - iOS Demo
 
 # 📊🔍 Data Validation Dashboard
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
 [![Swift](https://img.shields.io/badge/Swift-5.9+-orange.svg)](https://swift.org)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-4.0+-blue.svg)](https://developer.apple.com/xcode/swiftui/)
 [![iOS](https://img.shields.io/badge/iOS-16.0+-blue.svg)](https://www.apple.com/ios/)
